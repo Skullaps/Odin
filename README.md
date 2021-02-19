@@ -1,4 +1,3 @@
-Odin project repo
-Testing a pull
+Pull success
 
 # Odin
